@@ -11,4 +11,7 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+
 # HackNITR4.0SecondRoundSPAMBYTES
+
+client side repo:- https://github.com/Meru45/clientt-hacknitr.git
